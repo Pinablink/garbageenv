@@ -45,8 +45,6 @@ A interface é por linha de comando. Abaixo um exemplo no Prompt Linux. Segue os
 ### 🤔 Uma Ajudinha Rápida
 _____
 
-</br>
-
 ### 👉 Parâmetros de Utilização
 -p  : Informa o local onde se encontra o diretório que será limpo.
 </br>
@@ -57,7 +55,8 @@ _____
 
 ### 👉 Exemplo:
 Desejo que sejam deletados todos os arquivos e diretórios criados a 10 horas atrás 
-no meu diretório <CAMINHO_DIRETORIO>
+no meu diretório 
+</br>
 garbageenv -p <CAMINHO_DIRETORIO> -bh 10
 
 
